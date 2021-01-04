@@ -2,7 +2,7 @@
 
 Using firebase realtime database.
 
-Running on: https://vueapi-12bfd.web.app/
+Running on: https://epic-villani-b18b6e.netlify.app/
 
 ## Project setup
 ```
