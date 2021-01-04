@@ -1,4 +1,8 @@
-# 01forms
+# Tasks app
+
+Using firebase realtime database.
+
+Running on: https://vueapi-12bfd.web.app/
 
 ## Project setup
 ```
