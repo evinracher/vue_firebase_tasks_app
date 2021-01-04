@@ -2,7 +2,7 @@
 
 Using firebase realtime database.
 
-Running on: https://epic-villani-b18b6e.netlify.app/
+Running on: https://evinracher-tasks-app-firebase.netlify.app
 
 ## Project setup
 ```
